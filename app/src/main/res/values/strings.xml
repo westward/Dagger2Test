@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dagger2Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dummy_controller_message">Hi! DummyController is here.</string>
+</resources>
